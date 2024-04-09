@@ -146,6 +146,7 @@ h2.link-subtle a {
     font-size: 12px;
   }
   .main-content {
+    line-height: 20px;
     & h1 {
       font-size: 24px;
     }
