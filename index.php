@@ -86,6 +86,8 @@
         Narrative Resumé
       </h2>
       <p>Unlike most resumés, this version tells my work history in chronological order, with more detail than would normally be included in a resumé (including non-employment projects that have informed my career). An abridged version is also available in <a href="/?traditional=1">traditional, reverse-chronological order</a>.</p>
+      <p>I’m a technology leader, open source startup founder, software developer, and open web advocate. My mission is to work on technology projects in the public interest that have the potential to make the world more informed and equal.</p>
+      <p>This is the story of how I got there.</p>
 <?php
 
   } else {
@@ -95,7 +97,7 @@
         Summary
       </h2>
       <p class="p-summary">
-        Blah blah blah
+      Ben Werdmuller is a technology leader, open source startup founder, software developer, and open web advocate. His mission is to work on technology projects in the public interest that have the potential to make the world more informed and equal.
       </p>
       <h2>
         Work Experience
