@@ -72,10 +72,23 @@
     </style>
   </head>
   <body class="h-resume">
-    <div class="site-header">
+    <div class="site-header h-card">
       <h1 class="p-name">Ben Werdmuller</h1>
       <h2>
         Technical leader, founder, and open web advocate
+<?php
+
+  if ($traditional) {
+
+?>
+<br><br>
+<span class="p-tel">+1 (510) 283-3321</span> &middot;
+<a href="mailto:ben@benwerd.com" class="u-email">ben@benwerd.com</a>
+<?php
+
+  }
+
+?>
       </h2>
     </div>
     <div class="main-content">
@@ -99,7 +112,7 @@
         Summary
       </h2>
       <p class="p-summary">
-      Ben Werdmuller is a technology leader, open source startup founder, software developer, and open web advocate. His mission is to work on technology projects in the public interest that have the potential to make the world more informed and equal.
+        Ben Werdmuller is a technology leader, open source startup founder, software developer, and open web advocate. His mission is to work on technology projects in the public interest that have the potential to make the world more informed and equal.
       </p>
       <h2>
         Work Experience
