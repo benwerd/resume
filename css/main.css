@@ -71,6 +71,9 @@ body {
     font-style: italic;
     margin-top: 0;
   }
+  .p-summary {
+    margin-bottom: 40px;
+  }
 }
 
 .link-subtle a {

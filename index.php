@@ -74,7 +74,7 @@
   <body class="h-resume">
     <div class="site-header">
       <h1 class="p-name">Ben Werdmuller</h1>
-      <h2 class="p-summary">
+      <h2>
         Technical leader, founder, and open web advocate
       </h2>
     </div>
@@ -92,7 +92,13 @@
 
 ?>
       <h2>
-        Resumé
+        Summary
+      </h2>
+      <p class="p-summary">
+        Blah blah blah
+      </p>
+      <h2>
+        Work Experience
       </h2>
 <?php
 
