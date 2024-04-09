@@ -55,7 +55,7 @@
       .narrative {
         display: none;
       }
-      h3.p-name a {
+      a {
         text-decoration: none;
         color: #333;
       }
@@ -85,7 +85,7 @@
       <h2>
         Narrative Resumé
       </h2>
-      <p>Unlike most resumés, this version tells my work history in chronological order. You can also read it in <a href="/?traditional=1">traditional, reverse-chronological order</a>.</p>
+      <p>Unlike most resumés, this version tells my work history in chronological order, with more detail than would normally be included in a resumé (including non-employment projects that have informed my career). An abridged version is also available in <a href="/?traditional=1">traditional, reverse-chronological order</a>.</p>
 <?php
 
   } else {
