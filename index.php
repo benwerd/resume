@@ -19,6 +19,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1">
     <meta name="description" content="Ben Werdmuller's full narrative resumé." />
+    <link rel="icon" type="image/x-icon" href="/main.500.jpg" />
+    <link rel="canonical" href="https://resume.werd.io" />
+    <link rel="image_src" href="/main.1500.jpg" />
     <link rel="feed" type="application/rss+xml" title="Werd I/O" href="https://werd.io/feed" />
     <link rel="alternate feed" type="application/rss+xml" title="Werd I/O: links" href="https://werd.io/content/bookmarkedpages?_t=rss" />
     <meta property="og:site_name" content="Ben Werdmuller" />
@@ -26,7 +29,7 @@
     <meta property="og:url" content="https://resume.werd.io" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="Ben Werdmuller's full narrative resumé." />
-    <meta property="og:image" content="https://about.werd.io/main.1500.jpg" />
+    <meta property="og:image" content="/main.1500.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="1200" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
