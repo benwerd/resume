@@ -49,7 +49,7 @@
           }
         }    
     </script>
-    <link rel="stylesheet" href="/css/main.css?2024040901">
+    <link rel="stylesheet" href="/css/main.css?2024040902">
     <style>
 <?php
 
