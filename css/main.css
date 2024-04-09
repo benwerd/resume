@@ -140,3 +140,21 @@ h2.link-subtle a {
 .item, h2.education {
   margin-top: 40px;
 }
+
+@media print {
+  body {
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  h4 {
+    font-size: 12px;
+  }
+}
